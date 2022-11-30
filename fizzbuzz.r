@@ -1,6 +1,7 @@
 #Script to do FIzzBuzz!
 #Author: Jake Hudson
 #Date  : 15 Nov 2022
+## is this line pushed to github?
 
 #wholenumber function
 iswholenumber <- function(x) {
